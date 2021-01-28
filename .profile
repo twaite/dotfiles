@@ -28,5 +28,5 @@ fi
 
 EDITOR=nvim
 xcape -e 'Caps_Lock=Escape'
-picom -b --experimental-backend &
+#picom -b --experimental-backend &
 source /etc/profile.d/apps-bin-path.sh 
