@@ -14,6 +14,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
 Plug 'chrisbra/colorizer'
+Plug 'posva/vim-vue'
 
 " Syntax
 Plug 'pangloss/vim-javascript'
